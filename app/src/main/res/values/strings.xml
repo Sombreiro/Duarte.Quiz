@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="Case1_Array">
+        <item>Qual o meu nome?</item>//Pergunta
+        <item>Raphael</item>//Resposta
+        <item>Raphael</item>//Opção 1
+        <item>Rafael</item>//Opção 2
+        <item>Raffael</item>//Opção 3
+        <item>Rafhael</item>//Opção 4
+    </string-array>
+    <string-array name="Case2_Array">
+        <item>Qual o nome do meu cachorro?</item>//Pergunta
+        <item>Dave</item>//Resposta
+        <item>Speed</item>//Opção 1
+        <item>Pulguento</item>//Opção 2
+        <item>Dave</item>//Opção 3
+        <item>Gromm</item>//Opção 4
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
